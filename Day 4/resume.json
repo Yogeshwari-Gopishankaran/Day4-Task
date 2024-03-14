@@ -1,0 +1,23 @@
+[
+  "name": "Yogeshwari G",
+  "age": "26",
+  "phoneNumber": " 9865197640",
+  "emailId": "yoga@gmail.com",
+  "languages": ["English", "Tamil","Hindi"],
+   "Qualification":{
+                    "CollegeName":"Jeppiaar SRR Engineering College",
+                    "degree":"BE(Computer Science)",
+                    "Percentage":"68",
+                    "passedOut":"2019"
+   },
+   "softwareSkills": ["C,C++,JavaScript,DataSctuctures,HTML,CSS,Bootstap"],
+   "experence": {
+                "CompanyName":"Wipro(Client Location)",
+                 "Role":["technical service desk","Asset Management"]
+                },
+    "address": {
+                    "addressLine1":"T.S.R Nagar",
+                    "addressLine2":"TVT Chennai-19"
+                  },
+   "nationality":"Indian"             
+]
